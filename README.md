@@ -20,7 +20,8 @@ This repository aims to provide a collection of basic data structures and algori
 The repository is organized as follows:
 
 - **`data_structures/`**: Contains implementations of various data structures.
-  - **`linked_list/`**: Singly and doubly linked list implementations.
+  - **`linked_list/`**: Singly linked list implementations.
+  - **`doubly_linked_list/`**: Doubly linked list implementations.
   - **`stack/`**: Stack data structure implementation.
   - **`queue/`**: Queue data structure implementation.
   - **`binary_tree/`**: Binary tree implementations.
